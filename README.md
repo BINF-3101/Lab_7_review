@@ -38,3 +38,48 @@ How many genes were annotated in your genome annotation (use the **clear** versi
 
 
 
+## Step 2 - Review your species description
+
+I've collected species descriptions for each of your species. They are linked here: https://docs.google.com/spreadsheets/d/1dMQB6ykYhzzFyWtFi-jBCXJQd3Yk2UCLWxDkSXm-Gk4/edit?usp=sharing
+
+Read through your species description and answer the following questions.
+
+Some yeast prefer to reproduce asexually while others actively produce sexual offspring. In yeast they form a special spore called an **ascospore**. An ascospore is a sexually produced fungal spore formed within an ascus of ascomycetes. Ascospores have a haploid number of chromosomes and are formed by meiosis of the diploid zygote that results when the nuclei of sexually compatible hyphae fuse together.
+
+### Question 7 
+
+Does your species form Ascospores?
+
+### Question 8
+
+Where (on what substrates) have strains of your species been found? If there are many listed, pick 3 to report. If the origin is "unknown" report that as well. 
+
+### Question 9 
+
+Is there any geographic information about where your species was found? If so, list up to 3 countries/locations where the species was found. 
+
+### Question 10 
+
+List one other thing you learned/found interesting in your genome.
+
+
+## Step 3 - Review your gene function
+
+On the second page/sheet of the google sheet you will see links to descriptions of the genes you are studying. hey are linked here: https://docs.google.com/spreadsheets/d/1dMQB6ykYhzzFyWtFi-jBCXJQd3Yk2UCLWxDkSXm-Gk4/edit?usp=sharing
+
+
+### Question 11
+
+What is the descriptive or long name for your gene? 
+
+### Question 12
+
+What pathway(s) is your gene involved in? List up to 3 if there are more. 
+
+### Question 13
+
+List one other thing you learned/found interesting about your gene. 
+
+
+
+
