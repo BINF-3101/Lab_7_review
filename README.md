@@ -52,7 +52,7 @@ Does your species form Ascospores?
 
 ### Question 8
 
-Where (on what substrates) have strains of your species been found? If there are many listed, pick 3 to report. If the origin is "unknown" report that as well. 
+Where (on what substrates/environment/animal) have strains of your species been found? If there are many listed, pick 3 to report. If the origin is "unknown" report that as well. 
 
 ### Question 9 
 
