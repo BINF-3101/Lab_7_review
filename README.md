@@ -78,5 +78,12 @@ List one other thing you learned/found interesting in your yeast species.
 
 Google your species name. Is there any additional information there? List one additional resource that includes your species (can be a link or a file). 
 
+### Question 15
+Which two assignments are you planning on doing for the Final Assignment
+
+- News communications article – This short article will outline the main findings and importance of the project.
+- Value Grant proposal – A specific aims page that outlines a follow-up project.
+- Scientific paper introduction – The introduction to a scientific paper that outlines the background and results of the project.
+- Computational pipeline illustration – Create a computational pipeline illustration that describes each step of the project
 
 
